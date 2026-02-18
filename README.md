@@ -93,17 +93,23 @@ Note: Neutral class performance (55% F1) is considered excellent in SER research
 
 ## 📈 Visualizations
 
+> **Note**: The following visualizations will be generated during training. Run the training notebook to create these plots.
+
 ### Confusion Matrix
 ![Confusion Matrix](assets/confusion_matrix.png)
+*Generated after model evaluation*
 
 ### Training History
 ![Training History](assets/training_history.png)
+*Shows loss and accuracy curves during training*
 
 ### Emotion Distribution
 ![Emotion Distribution](assets/emotion_distribution.png)
+*Dataset class distribution*
 
 ### MFCC Features
 ![MFCC Features](assets/mfcc_example.png)
+*Example MFCC feature extraction visualization*
 
 ## 📦 Installation
 Prerequisites
